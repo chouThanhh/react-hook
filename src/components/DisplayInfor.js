@@ -13,7 +13,6 @@ class DisplayInfor extends React.Component {
     render() {
         //destructing array/object
         const { listUsers } = this.props; //object
-        console.log(listUsers)
         // const listUsers = this.props.listUsers
         //props => vt tắt properties
         return (
